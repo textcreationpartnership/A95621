@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ten modest queries humbly offer'd to the most  serious consideration of the right reverend father in God, Thomas, lord bishop of Saint Davids, and that they may be communicated to the rest of the clergy, at his primary visitation now held for that diocess / by a true and sincere member of the Church of England, and well-wisher to his lordship in all things that are good and honest.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95621</idno>
+            <idno type="STC">Wing T672B</idno>
+            <idno type="STC">ESTC R42910</idno>
+            <idno type="EEBO-CITATION">38875930</idno>
+            <idno type="OCLC">ocm 38875930</idno>
+            <idno type="VID">152438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2297:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ten modest queries humbly offer'd to the most  serious consideration of the right reverend father in God, Thomas, lord bishop of Saint Davids, and that they may be communicated to the rest of the clergy, at his primary visitation now held for that diocess / by a true and sincere member of the Church of England, and well-wisher to his lordship in all things that are good and honest.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.)</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1685-1688 : James II). --  His Majesties gracious declaration to all his loving subjects for liberty of conscience.</term>
+               <term>Church of England --  Clergy.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152438:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>Ten Modeſt QUERIES, HUMBLY OFFER'D To the moſt ſerious Conſideration of the Right Reverend Father in God, THOMAS Lord Biſhop of Saint <hi>Davids;</hi> AND That they may be Communicated to the reſt of the Clergy, at his Primary Viſitation now held for that Dioceſs.</head>
+            <byline>By a True and Sincere Member of the Church of <hi>England,</hi> and a well-wiſher to his Lordſhip in all things that are good and honeſt.</byline>
+            <p>
+               <label>QUERY I.</label>
+               <lb/>
+WHether every Biſhop and Clergy-man take not an Oath of Canonical Obedience to his Metropolitan the Arch-Biſhop.</p>
+            <p>If ſo, Whether a Biſhop or inferiour Clergy-man, can with<g ref="char:EOLhyphen"/>out incurring the Guilt of Perjury, diſobey his Metropolitan in <hi>licitis &amp; honeſtis.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:152438:2"/>
+               <!-- PDF PAGE 17 -->
+               <label>QUERY II.</label>
+               <lb/>
+Whether every inferiour Clergy-man is not bound in a Stricter Tye of obedience to his Metropolitan, whom he knows to be ſtanch, and firm to his Religion, than to his Dioceſan, whom he has ſome reaſon to ſuſpect, becauſe he has only his own word for his Integrity, tho' his Actions may declare the contrary?</p>
+            <p>
+               <label>QUERY III.</label>
+               <lb/>
+Whether a private Miniſters refuſing to read a Thing pub<g ref="char:EOLhyphen"/>lickly in his Church, becauſe he knows it to be contrary to his Conſcience, and deſtructive to his Religion; be a ſufficient Reaſon for a Proteſtant Biſhop to abſtain from Church, and turn his back on the bleſſed Sacrament on the Lord's day?</p>
+            <p>
+               <label>QUERY IV.</label>
+               <lb/>
+Whether a matter of Conſcience, or ſcruple ariſeing at any time in Gods Church, the inferiour Clergy are to follow the Opinion of 20 Biſhops whom they know to be ſtedfaſt and firm in their Religion, and that value leſs their preferrment, then their Conſciences, and the diſpleaſure of their Prince (for whom they are ready to ſacrifice their Lives, and Fortunes) leſs then the diſpleaſure of their God, whom they cannot, whom they dare not offend; Or elſe to follow the Opinion and Judg<g ref="char:EOLhyphen"/>ment of four temporizeing Biſhops, who under hand endea<g ref="char:EOLhyphen"/>vour the ruin and deſtruction of the beſt of Churches, like ſo many Wethercocks turning every way with the Fickle and in<g ref="char:EOLhyphen"/>conſtant Wind?</p>
+            <p>If ſo, whether the 20 Prelates that are eminent for their Piety and Learning; Or the four which are eminent for neither be guilty of the preſent Schiſm, that's unhappily ſet on foot by he Enemies of our Church.</p>
+            <p>
+               <pb n="3" facs="tcp:152438:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 17 -->
+               <label>QUERY V.</label>
+               <lb/>
+Whether after his Majeſties gracious Declaration for Liberty of Conſcience, a Proteſtant Biſhop ought to force his Clergy to Act contrary to their Conſciences, and what is moſt Sacred to them; their Religion.</p>
+            <p>If ſo, whether our Swearing to obſerve, the 39 Articles do's not oblige every Clergy-man to ſtick ſtedfaſt, and firm to the Faith therein contain'd; and not to bring our Religion, which is ſo Primitive and Apoſtolical into ſcorn and contempt, through any unjuſt Compliance for Temporal advantage?</p>
+            <p>
+               <label>QUERY VI.</label>
+               <lb/>
+Whether the kind, and endearing Expreſſions of Fellow Brethren, and Fellow Labourers in Gods Word, as us'd by the Apoſtles themſelves; be not more decent and more becoming the Gravity of a Biſhop to his Clergy, then the Billingſgate Scoundrel Expreſſions of Seditions, Scandalous, and perjur'd Varletts?</p>
+            <p>
+               <label>QUERY VII.</label>
+               <lb/>
+Whether the ſame Charge that <hi>Paul</hi> gave to his Son <hi>Timothy,</hi> do's not ſtand good ſtill, <hi>That a Biſhop muſt be ſober, of good Behaviour, given to Hospitality, apt to Teach, not given to Wine, no Striker, not Covetous?</hi>
+            </p>
+            <p>
+               <label>QUERY VIII.</label>
+               <lb/>
+Whether the ſame Perſons that have Commanded the Clergy of late to read the Declaration, huffing ſome of them into a Compliance by threats, and hard words, wheedling others
+<pb n="4" facs="tcp:152438:3"/>
+               <!-- PDF PAGE 18 -->into it by fair promiſes and good words to Act contrary to their Inclinations, are to be look'd on at this time, as friends to the Church of England? Or if they ſhould at another time, when it ſtands more for their Intereſt oblige the ſame Clergy to read Maſs in their reſpective Churches, whether the Oaths then of Canonical obedience may oblige ſuch to obey their Dioceſan?</p>
+            <p>
+               <label>QUERY IX.</label>
+               <lb/>
+Whether ſuch who have of late comply'd herein, in obe<g ref="char:EOLhyphen"/>dience to his Majeſties Command, and at the ſame time declar'd their diſlike of it, are not guilty of the ſillieſt Equivocation, ſuch as a <hi>Jeſuit</hi> himſelf wou'd be aſham'd to own, being the greateſt hypocriſy that cou'd be offer'd both to God and Man?</p>
+            <p>
+               <label>QUERY X.</label>
+               <lb/>
+Whether the wicked <hi>Tenet</hi> of the Heathen Emperour <hi>(Ti<g ref="char:EOLhyphen"/>meri Mallem quam Amari)</hi> be not more becomeing a primative Perſecutor than a Chriſtian Prelate; whoſe beſt way to make his Lawn ſit eaſy is to Merit the love of all good and virtuous Men, and not to value the hatred of the vitious and prophane? For as benefits and rewards will oblige the one to Reverence and admire his Perſon; ſo will Puniſhments, and the fear of Juſtice deterr others from caſting any dirt, or aſperſion on him in the diſcharge of his ſacred function.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
